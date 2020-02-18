@@ -1,1 +1,3 @@
-# My names is Alex. I'm looking for a career change. Coding has always interested me and here I am finally taking a bootcamp. I like video games, and my cat Leelou. I was living in Colorado but moved to Maine for the duration of this bootcamp. I also enjoy coffee. i drannk way too much of it the other day for our first class.
+About Me! My name is Alex. I am new to coding though I have been casually looking through it for quite sometime now. Currently I work with disabled people.
+Its tiring and I dream for a job that is less messy and pays better. Hence, me going to into programming. In my freetime I enjoy videogames, brazilian jiu-jitsu annd rock climbing.
+I hope this course goes well for all of us. I fear falling behind and becoming overwhelmed by the work. I feel teaching is a great way to learn, and so if anyone struggles ith a concept that for soe reason I seem to understand I am more then happy to help!
