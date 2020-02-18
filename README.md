@@ -1,1 +1,1 @@
-# about-me
+# My names is Alex. I'm looking for a career change. Coding has always interested me and here I am finally taking a bootcamp. I like video games, and my cat Leelou. I was living in Colorado but moved to Maine for the duration of this bootcamp. I also enjoy coffee. i drannk way too much of it the other day for our first class.
