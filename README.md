@@ -1,1 +1,1 @@
-# about-me This homework is a little confusing. Homework alays confuses me a little bit. Thats why its called learning I suppose.
+My name is Alex, I have been working with mentally disbaled populations for the past few years. I am fairly new to programming though I hae been messing with it casually for a while now. I'm a little nervous about the workload but I amexcited to learn something new.
